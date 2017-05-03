@@ -15,3 +15,6 @@ Features
 * Handling of ASCII and BINARY Files
 * Tasker: List all tasks (http://example.org/tasker/)
 * Tasker: Execute task (http://example.org/tasker/taskname)
+
+优点：
+每个接入的socket使用独立线程处理。
